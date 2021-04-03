@@ -5,7 +5,7 @@
 
 *.tfstate.*
 # .tfvars files
-*.tfvars
+#*.tfvars  #  I want terraform.tfvars to be pushed, it does not have any confidential stuff
 
 # no creds
 *.pem
