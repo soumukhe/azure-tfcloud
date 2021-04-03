@@ -10,7 +10,7 @@ variable "region" {
 
 variable "resgrptag" {
   type    = string
-  default = "aciBootcampInstall"
+  default = "aciBootcampInstall-1"
 }
 
 variable "vnet" {
